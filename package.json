@@ -1,0 +1,19 @@
+{
+  "name": "tercer-pre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasSeguro/tercer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasSeguro/tercer/issues"
+  },
+  "homepage": "https://github.com/NicolasSeguro/tercer#readme"
+}
